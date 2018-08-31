@@ -1,1 +1,0 @@
-A knife hit game prototype, made entirely by Pedro Halmenschlager
